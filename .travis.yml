@@ -13,5 +13,5 @@ before_script:
 script:
   - cd test
   - lettuce
-  - coverage run --branch FigurasTest.py
+  - coverage run --branch CalculadoraTest.py
   - coverage report
